@@ -2425,8 +2425,8 @@ function library:New(args)
 
     function window:Watermark()
         local watermark = {
-            name = "beanbot",
-            version = "dev",
+            name = "aphixe",
+            version = "private",
             instances = {},
             values = {}
         }
